@@ -1,0 +1,349 @@
+/* ======= Blue buttons ======== */
+.home {
+	background-image: url( images/blue/home16.png ) !important;
+}
+.protocol16 {
+	background-image: url( images/blue/protocol16.png ) !important;
+}
+.patients16 {
+	background-image: url( images/blue/patients16.png ) !important;
+}
+.drugs16 {
+	background-image: url( images/blue/drugs16.png ) !important;
+}
+.microscope16 {
+	background-image: url( images/blue/microscope16.png ) !important;
+}	
+.protocol {
+	background-image: url( images/blue/protocol32.png ) !important;
+}
+.patients {
+	background-image: url( images/blue/patients32.png ) !important;
+}
+.drugs {
+	background-image: url( images/blue/drugs32.png ) !important;
+}
+.microscope {
+	background-image: url( images/blue/microscope32.png ) !important;
+}
+.doctor {
+	background-image: url( images/blue/female-doctor32.png ) !important;
+}
+
+.gear {
+	background-image: url( images/blue/gear16.png ) !important;
+}	
+.exit {
+	background-image: url( images/blue/exit16.png ) !important;
+}
+.help {
+	background-image: url( images/blue/help16.png ) !important;
+}
+.add {
+	background-image: url( images/blue/add16.png ) !important;
+}
+.refresh {
+	background-image: url( images/blue/refresh16.png ) !important;
+}
+.printer {
+	background-image: url( images/blue/printer16.png ) !important;
+}
+
+.phone-call {
+	background-image: url( images/blue/phone-call16.png ) !important;
+}
+.at {
+	background-image: url( images/blue/at16.png ) !important;
+}
+.skype {
+	background-image: url( images/blue/skype16.png ) !important;
+}
+.mailing {
+	background-image: url( images/blue/mailing16.png ) !important;
+}
+.phone-home {
+	background-image: url( images/blue/phone-home16.png ) !important;
+}
+.smartphone {
+	background-image: url( images/blue/smartphone16.png ) !important;
+}
+.viber {
+	background-image: url( images/blue/viber16.png ) !important;
+}
+
+.ecg {
+	background-image: url( images/blue/ecg16.png ) !important;
+}
+.ct {
+	background-image: url( images/blue/ct16.png ) !important;
+}
+.rr {
+	background-image: url( images/blue/rr16.png ) !important;
+}
+.warning {
+	background-image: url( images/blue/warning16.png ) !important;
+}
+.admin32 {
+	background-image: url( images/blue/admin32.png ) !important;
+}
+.coordinator32 {
+	background-image: url( images/blue/coordinator32.png ) !important;
+}
+.datamanager32 {
+	background-image: url( images/blue/datamanager32.png ) !important;
+}
+.pi32 {
+	background-image: url( images/blue/pi32.png ) !important;
+}
+.ct32 {
+	background-image: url( images/blue/ct32.png ) !important;
+}
+.nurse32 {
+	background-image: url( images/blue/nurse32.png ) !important;
+}
+
+
+/* ======= Color buttons ======== */
+.btn-remove {
+	background-image: url( images/color/BtnRemove16.png ) !important;
+}
+.btn-add {
+	background-image: url( images/color/BtnAdd16.png ) !important;
+}
+.btn-edit {
+	background-image: url( images/color/BtnEdit16.png ) !important;
+}
+.btn-chainebreak {
+	background-image: url( images/color/BtnChaineBreak16.png ) !important;
+}
+.btn-tick {
+	background-image: url( images/color/BtnTick16.png ) !important;
+}
+.btn-crossscript {
+	background-image: url( images/color/BtnCrossScript16.png ) !important;
+}
+.btn-refresh {
+	background-image: url( images/color/BtnRefresh16.png ) !important;
+}
+.btn-view {
+	background-image: url( images/color/BtnView16.png ) !important;
+}
+.btn-clip {
+	background-image: url( images/color/BtnClip16.png ) !important;
+}
+.btn-funnel {
+	background-image: url( images/color/BtnFunnel16.png ) !important;
+}
+.btn-unfunnel {
+	background-image: url( images/color/BtnUnFunnel16.png ) !important;
+}
+.btn-save {
+	background-image: url( images/color/BtnSave16.png ) !important;
+}
+.btn-download {
+	background-image: url( images/color/BtnDownload.png ) !important;
+}
+.btn-upload {
+	background-image: url( images/color/BtnUpload.png ) !important;
+}
+.btn-view {
+	background-image: url( images/color/BtnView.png ) !important;
+}
+.btn-info {
+	background-image: url( images/color/infocard16.png ) !important;
+}
+.btn-calendar {
+	background-image: url( images/color/Calendar16.png ) !important;
+}
+.ok-hand {
+	background-image: url( images/color/ok32.png ) !important;
+}
+
+#chatList .x-grid-cell {
+	vertical-align: middle;
+}
+
+#chatList .x-grid-cell .x-grid-cell-inner {
+	white-space: normal;
+	line-height: 17px;
+}
+
+#chatList .x-grid-cell .x-grid-cell-inner:before {
+	display: none !important;
+}
+
+.message {
+	background-image: url( images/contact.png ) !important;
+}
+
+#messageDate-triggerWrap {
+	border-radius: 5px;
+}
+
+#messageDate-inputEl, #messageDate-trigger-picker {
+	background-color: #e0ebf3;
+}
+
+#messageDate-trigger-picker {
+	border-radius: 0 2px 2px 0;
+}
+
+#messageDate-inputWrap {
+	border-radius: 2px 0 0 2px;
+}
+.scrolled{
+	position: fixed !important;
+	top: 119px !important;
+	left: initial !important;
+	z-index: 500 !important;
+}
+
+.filterText {
+	color: red !important;
+}
+
+.fat-dot input {
+	font-size: 29px;
+    height: 1px !important;
+    padding-bottom: 12px;
+}
+
+#calendar .fc-event-container .fc-content {
+  white-space: initial;
+ }
+ 
+#calendar .fc-event-container .fc-content .indent-4{
+  padding-left: 4px;
+}
+
+#calendar .fc-event-container .fc-content .indent-8{
+  padding-left: 8px;
+}
+
+#calendar .fc-event-container .fc-content .indent-12{
+  padding-left: 12px;
+}
+
+#calendar .fc-event-container .fc-content .indent-16{
+  padding-left: 16px;
+}
+
+
+#calendar2 .fc-event-container .fc-content {
+  white-space: initial;
+ }
+ 
+#calendar2 .fc-event-container .fc-content .indent-4{
+  padding-left: 4px;
+}
+
+#calendar2 .fc-event-container .fc-content .indent-8{
+  padding-left: 8px;
+}
+
+#calendar2 .fc-event-container .fc-content .indent-12{
+  padding-left: 12px;
+}
+
+#calendar2 .fc-event-container .fc-content .indent-16{
+  padding-left: 16px;
+}
+
+#calendar .fc-event-container {
+    cursor: pointer;
+}
+
+#calendar .fc-sat, .fc-sun {
+    background-color: #eeeeee !important; width: 10% !important;
+}
+
+
+.boldText {
+	font-weight: bold;
+}
+.redText {
+	color: red;
+}
+
+.advertChatTime {
+	background-color: red;
+	color: white;
+	border-radius: 3px;
+	font-weight: bold;
+}
+
+.qtip-title {
+	font-size: 13px;
+}
+
+.qtip-content {
+	font-size: 13px;
+	line-height: 16px;
+}
+
+.mail_general {
+	width: 16px !important;
+    height: 16px !important;
+    background-image: url(images/mail_general.png) !important;
+    background-color: transparent;
+    border: none;
+    background-size: 16px;
+}
+
+.mail_general:hover {
+	width: 16px !important;
+    height: 16px !important;
+    background-image: url(images/mail_general_hover.png) !important;
+    background-color: transparent;
+    border: none;
+}
+
+.mail_general.x-btn-pressed.x-btn-default-small.x-btn-focus {
+	width: 16px !important;
+    height: 16px !important;
+    background-image: url(images/mail_general_pressed.png) !important;
+    background-color: transparent !important;
+    border: none !important;
+	box-shadow: none !important;
+}
+
+.mail_unread {
+	width: 16px !important;
+    height: 16px !important;
+    background-image: url(images/mail_unread.png) !important;
+    background-color: transparent;
+    border: none;
+    background-size: 16px;
+}
+
+#chatListAdvert .advert-time .x-grid-cell-inner {
+	text-align: center !important;
+	background-color: #BE0807;
+	border-radius: 3px;
+	color: white;
+	padding: 2px;
+	width: 35px;
+	margin-left: auto;
+	margin-top: 2px;
+	font-size: 11px;
+}
+
+#chatListAdvert .advert-text {
+	color: #9F0800;
+}
+
+.long-text .x-grid-cell-inner{
+	white-space: normal;
+}
+
+#chatListQuestions .simple-question-text {
+	color: green;
+}
+
+#chatListQuestions .patient-question-text {
+	color: #000088;
+}
+
+.withoutMinHeight .x-form-display-field-default {
+	min-height: 0;
+}

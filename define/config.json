@@ -1,0 +1,17 @@
+{
+	"mysql": {
+	  	"main_db": {
+		  "host": "localhost",
+		  "port": "3306",
+		  "db": "test3",
+		  "user": "root",
+		  "pass": "1"
+		}
+	},
+
+	"php": {
+		"baseDir": "__DIR__ . '/../../'",
+		"serverDir": "$baseDir . '/server'",
+		"baseUrl": "'http://' . $_SERVER['HTTP_HOST'] . ':' . $_SERVER['SERVER_PORT'] . '/defineBlog/define'"
+	}
+}
